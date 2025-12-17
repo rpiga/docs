@@ -1,5 +1,9 @@
 # Bookmarks
 
+https://giuseppegu.bearblog.dev/top-foss-tools-i-use-in-2025/ #blog #tools
+
+https://www.tangentnotes.com/Download/ #tools #notes
+
 https://www.corriere.it/tecnologia/25_luglio_16/appassionato-di-true-crime-da-identify-me-a-missing-persons-gli-strumenti-online-per-diventare-detective-d8ca2cb3-3c29-4d95-845f-10db6f309xlk.shtml #crime #online-tools #news
 
 https://www.doenetwork.org/cases/5487dmia.html #crime #online-tools
