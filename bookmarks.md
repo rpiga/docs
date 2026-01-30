@@ -19,3 +19,6 @@ https://www.europol.europa.eu/stopchildabuse
 https://www.suncalc.org/ #sun #maps #gps #geo-location
 
 https://www.repubblica.it #news
+
+https://www.technetexperts.com/fix-node-postgres-password-hashtag/ #node #issues #how-to
+
