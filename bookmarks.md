@@ -9,16 +9,18 @@ https://www.corriere.it/tecnologia/25_luglio_16/appassionato-di-true-crime-da-id
 https://www.doenetwork.org/cases/5487dmia.html #crime #online-tools
 
 https://www.interpol.int/What-you-can-do/Identify-Me/Countries-in-which-the-bodies-were-found/Women-found-in-Italy/IT01-The-woman-with-the-panther-and-scorpion-tattoos #crime #online-tools
-https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices
-https://www.interpol.int/How-we-work/Notices/Yellow-Notices/View-Yellow-Notices
+https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices #crime
+https://www.interpol.int/How-we-work/Notices/Yellow-Notices/View-Yellow-Notices #crime
 
-https://www.fbi.gov/wanted
-https://eumostwanted.eu/
-https://www.europol.europa.eu/stopchildabuse
+https://www.fbi.gov/wanted #crime
+https://eumostwanted.eu/ #crime
+https://www.europol.europa.eu/stopchildabuse #crime
 
 https://www.suncalc.org/ #sun #maps #gps #geo-location
 
 https://www.repubblica.it #news
 
 https://www.technetexperts.com/fix-node-postgres-password-hashtag/ #node #issues #how-to
+https://stackoverflow.com/questions/79832861/connection-to-remote-postgresql-server-with-hashtag-in-password-with-node-postgr #node #issues
+
 
