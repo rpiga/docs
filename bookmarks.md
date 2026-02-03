@@ -23,4 +23,5 @@ https://www.repubblica.it #news
 https://www.technetexperts.com/fix-node-postgres-password-hashtag/ #node #issues #how-to
 https://stackoverflow.com/questions/79832861/connection-to-remote-postgresql-server-with-hashtag-in-password-with-node-postgr #node #issues
 
+https://www.youtube.com/watch?v=9UFpqdPzrwg&t=41 "10 MIN STANDING ABS WORKOUT FOR BEGINNERS | NO FLOOR, NO EQUIPMENT" #workout #video
 
