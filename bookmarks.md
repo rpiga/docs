@@ -25,3 +25,7 @@ https://stackoverflow.com/questions/79832861/connection-to-remote-postgresql-ser
 
 https://www.youtube.com/watch?v=9UFpqdPzrwg&t=41 "10 MIN STANDING ABS WORKOUT FOR BEGINNERS | NO FLOOR, NO EQUIPMENT" #workout #video
 
+
+https://www.youtube.com/embed/SBpLJDnvl0o?t=13 "Delete PostgreSQL on AWS RDS | Remove EC2 Instance | Step-by-Step AWS Cleanup Guide 2025" #aws #how-to
+
+
