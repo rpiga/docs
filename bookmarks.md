@@ -25,6 +25,10 @@ https://stackoverflow.com/questions/79832861/connection-to-remote-postgresql-ser
 
 https://www.youtube.com/watch?v=9UFpqdPzrwg&t=41 "10 MIN STANDING ABS WORKOUT FOR BEGINNERS | NO FLOOR, NO EQUIPMENT" #workout #video
 
+
+https://www.youtube.com/embed/SBpLJDnvl0o?t=13 "Delete PostgreSQL on AWS RDS | Remove EC2 Instance | Step-by-Step AWS Cleanup Guide 2025" #aws #how-to
+
+
 https://yashgarudkar.medium.com/deploying-a-node-js-backend-with-sequelize-on-aws-ec2-and-rds-for-postgresql-a99e3c5f347e #aws #node #ec2 #rds #how-to
 
 
