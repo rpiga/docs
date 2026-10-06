@@ -1,5 +1,12 @@
 # Bookmarks
 
+## Ubuntu/Xubuntu
+https://askubuntu.com/questions/1567973/i-would-like-to-install-ubuntu-26-04-on-a-ssd-using-full-disk-encryption-and-usi
+https://discourse.ubuntu.com/t/install-with-separate-home-and-uefi-partitions/73842
+https://ubuntu.fan/en/docs/guide/installation/manual-partition
+https://www.tecmint.com/xubuntu-installation-guide/
+https://ubuntuhandbook.org/index.php/2026/04/how-to-install-ubuntu-26-04-desktop-edition-step-by-step/ #-- too many ads..
+
 https://giuseppegu.bearblog.dev/top-foss-tools-i-use-in-2025/ #blog #tools
 
 https://www.tangentnotes.com/Download/ #tools #notes
