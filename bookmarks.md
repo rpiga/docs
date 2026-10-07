@@ -11,7 +11,10 @@ https://www.tecmint.com/xubuntu-installation-guide/
 
 https://ubuntuhandbook.org/index.php/2026/04/how-to-install-ubuntu-26-04-desktop-edition-step-by-step/ #-- too many ads..
 
+https://askubuntu.com/questions/1536787/next-button-grayed-out-after-creating-partition-table-for-ubuntu
 
+
+---
 
 
 
