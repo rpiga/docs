@@ -13,6 +13,11 @@ https://ubuntuhandbook.org/index.php/2026/04/how-to-install-ubuntu-26-04-desktop
 
 https://askubuntu.com/questions/1536787/next-button-grayed-out-after-creating-partition-table-for-ubuntu
 
+https://linuxvox.com/blog/things-to-do-after-installing-ubuntu/
+
+https://www.howtogeek.com/the-things-i-do-right-after-installing-linux/
+
+https://toolsana.com/blog/secure-ubuntu-24-04-installation-guide/
 
 ---
 
