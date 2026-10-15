@@ -16,7 +16,14 @@ https://askubuntu.com/questions/1536787/next-button-grayed-out-after-creating-pa
 
 ---
 
+## Timeshift
+https://linuxcapable.com/how-to-install-timeshift-on-ubuntu-linux/
 
+https://computingforgeeks.com/timeshift-backup-restore-linux/
+
+---
+
+## Other
 
 https://giuseppegu.bearblog.dev/top-foss-tools-i-use-in-2025/ #blog #tools
 
