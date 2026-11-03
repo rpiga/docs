@@ -28,6 +28,11 @@ https://computingforgeeks.com/timeshift-backup-restore-linux/
 
 ---
 
+## ERPNext
+https://discuss.frappe.io/t/guide-how-to-install-erpnext-v16-on-linux-ubuntu-24-04-step-by-step-instructions/159255
+
+---
+
 ## Other
 
 https://giuseppegu.bearblog.dev/top-foss-tools-i-use-in-2025/ #blog #tools
